@@ -8,41 +8,41 @@
 <p><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="https://cdn.jsdelivr.net/gh/Cxy-an/img@main/20230420/lvye.asia.lx-music-desktop_VHpjDKTedJ.webp"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230420/lvye.asia.lx-music-desktop_VHpjDKTedJ.webp"
                       alt="酷我搜索"
                 ></p>
 <p><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="https://cdn.jsdelivr.net/gh/Cxy-an/img@main/20230420/lvye.asia.lx-music-desktop_J8fLxwmluf.webp"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230420/lvye.asia.lx-music-desktop_J8fLxwmluf.webp"
                       alt="聚合搜索"
                 ></p>
 <h3 id="2-音乐播放"><a href="#2-音乐播放" class="headerlink" title="2.音乐播放"></a>2.音乐播放</h3><p>软件支持查看评论、歌词</p>
 <p><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="https://cdn.jsdelivr.net/gh/Cxy-an/img@main/20230420/lvye.asia.lx-music-desktop_MhPE7y82KB.webp"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230420/lvye.asia.lx-music-desktop_MhPE7y82KB.webp"
                       alt="歌词"
                 ></p>
 <h3 id="3-音乐下载"><a href="#3-音乐下载" class="headerlink" title="3.音乐下载"></a>3.音乐下载</h3><p>支持五大平台音乐下载(本功能需进入设置-下载设置-是否启用下载功能，把前面打勾，可对歌曲右键即可下载)</p>
 <p><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="https://cdn.jsdelivr.net/gh/Cxy-an/img@main/20230420/lvye.asia.lx-music-desktop_zo2LiLeUeE.webp"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230420/lvye.asia.lx-music-desktop_zo2LiLeUeE.webp"
                       alt="下载"
                 ></p>
 <p>下载后的歌曲自动转mp3</p>
 <p><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="https://cdn.jsdelivr.net/gh/Cxy-an/img@main/20230420/lvye.asia.explorer_iobJyszMdQ.webp"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230420/lvye.asia.explorer_iobJyszMdQ.webp"
                       alt="mp3"
                 ></p>
 <h3 id="4-歌单"><a href="#4-歌单" class="headerlink" title="4.歌单"></a>4.歌单</h3><p>支持所有平台的歌单</p>
 <p><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="https://cdn.jsdelivr.net/gh/Cxy-an/img@main/20230420/lvye.asia.lx-music-desktop_qVyPuvvdxS.webp"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230420/lvye.asia.lx-music-desktop_qVyPuvvdxS.webp"
                       alt="lvye"
                 ></p>
 <p>也支持所有平台导入歌单</p>
@@ -55,13 +55,13 @@
 <p><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="https://cdn.jsdelivr.net/gh/Cxy-an/img@main/20230420/lvye.asia.lx-music-desktop_sgeiQnD3QQ.webp"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230420/lvye.asia.lx-music-desktop_sgeiQnD3QQ.webp"
                       alt="lvye"
                 ></p>
 <h3 id="5-排行榜"><a href="#5-排行榜" class="headerlink" title="5.排行榜"></a>5.排行榜</h3><p><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="https://cdn.jsdelivr.net/gh/Cxy-an/img@main/20230420/lvye.asia.lx-music-desktop_0PJQRhINSz.webp"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230420/lvye.asia.lx-music-desktop_0PJQRhINSz.webp"
                       alt="lvye"
                 ></p>
 <h2 id="二-使用说明"><a href="#二-使用说明" class="headerlink" title="二.使用说明"></a>二.使用说明</h2><h3 id="1-安装失败"><a href="#1-安装失败" class="headerlink" title="1.安装失败"></a>1.安装失败</h3><h4 id="Windows-安装版安装失败"><a href="#Windows-安装版安装失败" class="headerlink" title="Windows 安装版安装失败"></a>Windows 安装版安装失败</h4><h5 id="覆盖安装时安装失败"><a href="#覆盖安装时安装失败" class="headerlink" title="覆盖安装时安装失败"></a>覆盖安装时安装失败</h5><p>出现这个问题的原因一般是你当初在安装本软件的时候是以管理员身份安装的，运行软件的时候没有以管理员身份运行，所以卸载后无法再装上。</p>
@@ -119,5 +119,10 @@
         <tag>Lx music</tag>
         <tag>软件</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>青桔起始页</title>
+    <url>/CN/%E9%9D%92%E6%A1%94%E8%B5%B7%E5%A7%8B%E9%A1%B5/</url>
+    <content><![CDATA[]]></content>
   </entry>
 </search>
