@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>一个免费&amp;开源的音乐查找工具-Lx music</title>
+    <title>Lx music</title>
     <url>//zh-cn/Lx-music.html</url>
     <content><![CDATA[<h2 id="一-简介"><a href="#一-简介" class="headerlink" title="一.简介"></a>一.简介</h2><p>LX music(落雪音乐)是一个<strong>免费&amp;开源</strong>的音乐查找工具，支持五大音乐平台/融合搜索的搜索、播放、下载功能，并支持所有系统(计划支持IOS)</p>
 <h3 id="1-搜索"><a href="#1-搜索" class="headerlink" title="1.搜索"></a>1.搜索</h3><p>支持企鹅、网易云、酷狗、酷我、咪咕音乐的搜索功能</p>
@@ -122,7 +122,7 @@
   </entry>
   <entry>
     <title>友链提交说明</title>
-    <url>/CN/%E5%8F%8B%E9%93%BE%E6%8F%90%E4%BA%A4%E8%AF%B4%E6%98%8E/</url>
+    <url>//zh-cn/links.html</url>
     <content><![CDATA[<h2 id="本站友链相关信息"><a href="#本站友链相关信息" class="headerlink" title="本站友链相关信息"></a>本站友链相关信息</h2><h3 id="友链页面的位置"><a href="#友链页面的位置" class="headerlink" title="友链页面的位置"></a>友链页面的位置</h3><p>现在本站的所有友联都会放置于本页面: <a href="/links">友情链接</a>。</p>
 <p>你可以在本站的顶部菜单中找到该页面的链接。</p>
 <h3 id="样式示例"><a href="#样式示例" class="headerlink" title="样式示例"></a>样式示例</h3><p><img  
@@ -163,7 +163,7 @@
       </tags>
   </entry>
   <entry>
-    <title>简洁、美观、实用的浏览器起始页-青桔起始页</title>
+    <title>青桔起始页</title>
     <url>//zh-cn/intro.html</url>
     <content><![CDATA[<h2 id="一-功能"><a href="#一-功能" class="headerlink" title="一.功能"></a>一.功能</h2><div class="note note-success icon-padding"><i class="note-icon fa-solid fa-check-circle"></i><p>全平台兼容，即开即用.</p>
 </div>
