@@ -1,6 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>青桔起始页</title>
+    <url>//zh-cn/intro.html</url>
+    <content><![CDATA[<h2 id="一-功能"><a href="#一-功能" class="headerlink" title="一.功能"></a>一.功能</h2><div class="note note-success icon-padding"><i class="note-icon fa-solid fa-check-circle"></i><p>全平台兼容，即开即用.</p>
+</div>
+
+<h3 id="1-搜索"><a href="#1-搜索" class="headerlink" title="1.搜索"></a>1.搜索</h3><p><strong>全能搜索框</strong></p>
+<p>支持任何搜索引擎 / 一键翻译搜索内容 / 一键直达常用网站 / 输入算式直接计算结果——助您事半功倍。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230429/lime-intro-detail-search.webp"
+                      alt="lime-intro-detail-search"
+                ></p>
+<h3 id="2-网站捷径"><a href="#2-网站捷径" class="headerlink" title="2.网站捷径"></a>2.网站捷径</h3><p><strong>自定义常用网站</strong></p>
+<p>支持自定义名称、图标、布局，将您的常用网站收纳得井井有条。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230429/lime-intro-detail-cusnav.webp"
+                      alt="lime-intro-detail-cusnav"
+                ></p>
+<h3 id="3-便笺"><a href="#3-便笺" class="headerlink" title="3.便笺"></a>3.便笺</h3><p>随时记录您的灵感、待办事项和备忘清单。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230430/lvye.asia.firefox_UjgOrBHteN.78biwiygqhhc.webp"
+                      alt="lvye"
+                ></p>
+<h3 id="4-壁纸"><a href="#4-壁纸" class="headerlink" title="4.壁纸"></a>4.壁纸</h3><p> 摄于全球各地的优美风景供您欣赏。支持动态壁纸、静态壁纸；每日更新一张来自微软必应的精选壁纸；当然，您亦可将自己喜爱的图片设为壁纸。<br> <img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230429/lime-intro-detail-wallpaper.webp"
+                      alt="lime-intro-detail-wallpaper"
+                ></p>
+<h3 id="随心自定义"><a href="#随心自定义" class="headerlink" title="随心自定义"></a>随心自定义</h3><p>30+ 个性化设置，打造专属于您的起始页。</p>
+<h4 id="深色主题，深夜也悦目。"><a href="#深色主题，深夜也悦目。" class="headerlink" title="深色主题，深夜也悦目。"></a>深色主题，深夜也悦目。</h4><p>经过精心设计的深色主题，完美适配不同时段的配色偏好。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230429/lime-intro-detail-dark.webp"
+                      alt="lime-intro-detail-dark"
+                ></p>
+<h2 id="二-现在开始，定义起始页。"><a href="#二-现在开始，定义起始页。" class="headerlink" title="二.现在开始，定义起始页。"></a>二.现在开始，定义起始页。</h2><p>完全免费 · 纯净无广告 · 即开即用</p>
+<a class="button  regular" href='https://github.com/lyswhut/lx-music-desktop/releases' title='网页版'>网页版</a>
+
+<a class="button  regular" href='https://microsoftedge.microsoft.com/addons/detail/pcpnigdkpcgemocnjhebmajldpjlbeom' title='Edge 扩展'><i class='fa-brands fa-edge'></i> Edge 扩展</a>
+<a class="button  regular" href='https://chrome.google.com/webstore/detail/%E9%9D%92%E6%9F%A0%E8%B5%B7%E5%A7%8B%E9%A1%B5/aajmeahnoefldipnjgodkobfdcpmapno' title='Chrome 扩展'><i class='fa-brands fa-chrome'></i> Chrome 扩展</a>
+<a class="button  regular" href='https://addons.mozilla.org/zh-CN/firefox/addon/%E9%9D%92%E6%9F%A0%E8%B5%B7%E5%A7%8B%E9%A1%B5/' title='Firefox 扩展'><i class='fa-brands fa-firefox-browser'></i> Firefox 扩展</a>
+<a class="button  regular" href='https://maorx.lanzout.com/b00vbvwwd' title='CRX 文件'><i class='fa-solid fa-cloud-arrow-up'></i> CRX 文件</a>
+]]></content>
+      <tags>
+        <tag>起始页</tag>
+        <tag>青桔起始页</tag>
+        <tag>网站</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Lx music</title>
     <url>//zh-cn/Lx-music.html</url>
     <content><![CDATA[<h2 id="一-简介"><a href="#一-简介" class="headerlink" title="一.简介"></a>一.简介</h2><p>LX music(落雪音乐)是一个<strong>免费&amp;开源</strong>的音乐查找工具，支持五大音乐平台/融合搜索的搜索、播放、下载功能，并支持所有系统(计划支持IOS)</p>
@@ -118,59 +171,6 @@
         <tag>音乐</tag>
         <tag>Lx music</tag>
         <tag>软件</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>青桔起始页</title>
-    <url>//zh-cn/intro.html</url>
-    <content><![CDATA[<h2 id="一-功能"><a href="#一-功能" class="headerlink" title="一.功能"></a>一.功能</h2><div class="note note-success icon-padding"><i class="note-icon fa-solid fa-check-circle"></i><p>全平台兼容，即开即用.</p>
-</div>
-
-<h3 id="1-搜索"><a href="#1-搜索" class="headerlink" title="1.搜索"></a>1.搜索</h3><p><strong>全能搜索框</strong></p>
-<p>支持任何搜索引擎 / 一键翻译搜索内容 / 一键直达常用网站 / 输入算式直接计算结果——助您事半功倍。<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230429/lime-intro-detail-search.webp"
-                      alt="lime-intro-detail-search"
-                ></p>
-<h3 id="2-网站捷径"><a href="#2-网站捷径" class="headerlink" title="2.网站捷径"></a>2.网站捷径</h3><p><strong>自定义常用网站</strong></p>
-<p>支持自定义名称、图标、布局，将您的常用网站收纳得井井有条。<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230429/lime-intro-detail-cusnav.webp"
-                      alt="lime-intro-detail-cusnav"
-                ></p>
-<h3 id="3-便笺"><a href="#3-便笺" class="headerlink" title="3.便笺"></a>3.便笺</h3><p>随时记录您的灵感、待办事项和备忘清单。<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230430/lvye.asia.firefox_UjgOrBHteN.78biwiygqhhc.webp"
-                      alt="lvye"
-                ></p>
-<h3 id="4-壁纸"><a href="#4-壁纸" class="headerlink" title="4.壁纸"></a>4.壁纸</h3><p> 摄于全球各地的优美风景供您欣赏。支持动态壁纸、静态壁纸；每日更新一张来自微软必应的精选壁纸；当然，您亦可将自己喜爱的图片设为壁纸。<br> <img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230429/lime-intro-detail-wallpaper.webp"
-                      alt="lime-intro-detail-wallpaper"
-                ></p>
-<h3 id="随心自定义"><a href="#随心自定义" class="headerlink" title="随心自定义"></a>随心自定义</h3><p>30+ 个性化设置，打造专属于您的起始页。</p>
-<h4 id="深色主题，深夜也悦目。"><a href="#深色主题，深夜也悦目。" class="headerlink" title="深色主题，深夜也悦目。"></a>深色主题，深夜也悦目。</h4><p>经过精心设计的深色主题，完美适配不同时段的配色偏好。<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230429/lime-intro-detail-dark.webp"
-                      alt="lime-intro-detail-dark"
-                ></p>
-<h2 id="二-现在开始，定义起始页。"><a href="#二-现在开始，定义起始页。" class="headerlink" title="二.现在开始，定义起始页。"></a>二.现在开始，定义起始页。</h2><p>完全免费 · 纯净无广告 · 即开即用</p>
-<a class="button  regular" href='https://github.com/lyswhut/lx-music-desktop/releases' title='网页版'>网页版</a>
-
-<a class="button  regular" href='https://microsoftedge.microsoft.com/addons/detail/pcpnigdkpcgemocnjhebmajldpjlbeom' title='Edge 扩展'><i class='fa-brands fa-edge'></i> Edge 扩展</a>
-<a class="button  regular" href='https://chrome.google.com/webstore/detail/%E9%9D%92%E6%9F%A0%E8%B5%B7%E5%A7%8B%E9%A1%B5/aajmeahnoefldipnjgodkobfdcpmapno' title='Chrome 扩展'><i class='fa-brands fa-chrome'></i> Chrome 扩展</a>
-<a class="button  regular" href='https://addons.mozilla.org/zh-CN/firefox/addon/%E9%9D%92%E6%9F%A0%E8%B5%B7%E5%A7%8B%E9%A1%B5/' title='Firefox 扩展'><i class='fa-brands fa-firefox-browser'></i> Firefox 扩展</a>
-<a class="button  regular" href='https://maorx.lanzout.com/b00vbvwwd' title='CRX 文件'><i class='fa-solid fa-cloud-arrow-up'></i> CRX 文件</a>
-]]></content>
-      <tags>
-        <tag>起始页</tag>
-        <tag>青桔起始页</tag>
-        <tag>网站</tag>
       </tags>
   </entry>
   <entry>
