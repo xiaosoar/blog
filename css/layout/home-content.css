@@ -1,6 +1,8 @@
 :root {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -47,6 +49,8 @@
   :root {
     --background-color: #fff;
     --background-color-transparent: rgba(255,255,255,0.6);
+    --background-color-transparent-15: rgba(255,255,255,0.15);
+    --background-color-transparent-80: rgba(255,255,255,0.8);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -94,6 +98,8 @@
   :root {
     --background-color: #202124;
     --background-color-transparent: rgba(32,33,36,0.4);
+    --background-color-transparent-15: rgba(32,33,36,0.15);
+    --background-color-transparent-80: rgba(32,33,36,0.8);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -140,6 +146,8 @@
 .light-mode {
   --background-color: #fff;
   --background-color-transparent: rgba(255,255,255,0.6);
+  --background-color-transparent-15: rgba(255,255,255,0.15);
+  --background-color-transparent-80: rgba(255,255,255,0.8);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
@@ -185,6 +193,8 @@
 .dark-mode {
   --background-color: #202124;
   --background-color-transparent: rgba(32,33,36,0.4);
+  --background-color-transparent-15: rgba(32,33,36,0.15);
+  --background-color-transparent-80: rgba(32,33,36,0.8);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
@@ -228,7 +238,6 @@
   --mermaid-theme: '';
 }
 .home-content-container {
-  background: var(--background-color);
   margin-left: 38px;
 }
 @media (max-width: 780px) {
@@ -274,7 +283,7 @@
   -webkit-backdrop-filter: blur(10px);
 }
 .home-content-container .home-article-list .home-article-item .home-article-sticky-label .fa-thumbtack {
-  color: var(--default-text-color);
+  color: var(--third-text-color);
   margin-right: 3px;
   font-size: 0.65rem;
 }
@@ -321,6 +330,7 @@
   font-size: 1.4rem;
   line-height: 1.5;
   color: var(--second-text-color);
+  font-family: 'Open Sans', 'Noto Sans', sans-serif, 'Noto Sans SC', sans-serif, "Noto Sans SC", sans-serif;
   margin: 0;
 }
 @media (max-width: 780px) {
