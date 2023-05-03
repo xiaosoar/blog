@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+Allow: /p/
+Allow: /post/
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/ 
+Allow: /resources/
+Allow: /zh-cn/
+Disallow: /vendors/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /fontawesome/
+Disallow: /webfonts/
+
+Sitemap: https://lvye.asia/sitemap.xml
+Sitemap: https://lvye.asia/google.xml
