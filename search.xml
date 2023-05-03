@@ -1,48 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>友链提交说明</title>
-    <url>//zh-cn/links.html</url>
-    <content><![CDATA[<h2 id="本站友链相关信息"><a href="#本站友链相关信息" class="headerlink" title="本站友链相关信息"></a>本站友链相关信息</h2><h3 id="友链页面的位置"><a href="#友链页面的位置" class="headerlink" title="友链页面的位置"></a>友链页面的位置</h3><p>现在本站的所有友联都会放置于本页面: <a href="/links">友情链接</a>。</p>
-<p>你可以在本站的顶部菜单中找到该页面的链接。</p>
-<h3 id="样式示例"><a href="#样式示例" class="headerlink" title="样式示例"></a>样式示例</h3><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230430/lvye.asia.links.1y7s8oyqgfeo.webp"
-                      alt="lvye"
-                ></p>
-<h3 id="申请友链"><a href="#申请友链" class="headerlink" title="申请友链"></a>申请友链</h3><p>目前友链申请状态: <strong>开放</strong></p>
-<p>若想通过本页面申请本站的友链，需满足以下硬性条件:</p>
-<div class="note-large notel-blue"><div class="notel-title"><p>条件</p>
-</div><div class="notel-content"><ol>
-<li>目前只支持个人博客进行申请。商业网站恕不接受友链申请。</li>
-<li>网站需要有独立的域名，不支持 IP 地址和第三方二级域名 (即允许你的独立域名下的二级域名)。</li>
-<li>博客需要保证持续更新，且博客中必须保证大部分内容均为原创内容。</li>
-<li>网站支持 HTTPS。</li>
-<li>网站如被盗，请立即联系站长删除，否则将会加入黑名单</li>
-</ol>
- </div></div>
-
-<p>如需要申请和本博客交换友链，请在本页面下面回复，格式如下:</p>
-<div class="highlight-container" data-rel="Yml"><figure class="iseeu highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">name:</span> <span class="string">网站名称</span></span><br><span class="line"><span class="attr">link:</span> <span class="string">网站链接</span></span><br><span class="line"><span class="attr">description:</span> <span class="string">网站描述</span></span><br><span class="line"><span class="attr">avatar:</span> <span class="string">网站logo</span></span><br></pre></td></tr></table></figure></div>
-<div class="note-large notel-red"><div class="notel-title"><p>注意事项</p>
-</div><div class="notel-content"><ol>
-<li>网站名称 / 描述 / Logo 均需要符合相关法规，否则不予通过。</li>
-<li>如果选择不缓存你的网站 Logo，则友链图标会直接从你提供的 Logo URL 加载，好处是你可以随时通过更新 Logo URL 指向的图片来更新友链图标。(但是你不能通过这种形式把图标换成违规图片，一经发现直接将你网站的友链删除)</li>
-<li>申请结果博主会在本页中你的申请中进行回复，请注意留意。</li>
-<li>申请完成之后，你需要将本博客加入到你的网站中的友情链接列表中，友链相关信息如下 (请根据你的网站的实际情况进行调整)。</li>
-</ol>
- </div></div>
-
-<h3 id="提交示例"><a href="#提交示例" class="headerlink" title="提交示例"></a>提交示例</h3><div class="highlight-container" data-rel="Yml"><figure class="iseeu highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">name:</span> <span class="string">lvye</span></span><br><span class="line"><span class="attr">link:</span> <span class="string">https://lvye.asia</span></span><br><span class="line"><span class="attr">description:</span> <span class="string">实验网站</span></span><br><span class="line"><span class="attr">avatar:</span> <span class="string">https://www.chenxinyan.top/wp-content/uploads/2023/02/1676112641431.png</span></span><br></pre></td></tr></table></figure></div>
-
-<p><strong>如果申请成功之后 2 周内检查到你网站的友链列表中没有加入本博客，则视为申请无效，届时会将你的网站从本网站的友链列表中删除。</strong></p>
-]]></content>
-      <tags>
-        <tag>友链</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Lx music</title>
     <url>//zh-cn/Lx-music.html</url>
     <content><![CDATA[<h2 id="一-简介"><a href="#一-简介" class="headerlink" title="一.简介"></a>一.简介</h2><p>LX music(落雪音乐)是一个<strong>免费&amp;开源</strong>的音乐查找工具，支持五大音乐平台/融合搜索的搜索、播放、下载功能，并支持所有系统(计划支持IOS)</p>
@@ -160,6 +118,48 @@
         <tag>音乐</tag>
         <tag>Lx music</tag>
         <tag>软件</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>友链提交说明</title>
+    <url>//zh-cn/links.html</url>
+    <content><![CDATA[<h2 id="本站友链相关信息"><a href="#本站友链相关信息" class="headerlink" title="本站友链相关信息"></a>本站友链相关信息</h2><h3 id="友链页面的位置"><a href="#友链页面的位置" class="headerlink" title="友链页面的位置"></a>友链页面的位置</h3><p>现在本站的所有友联都会放置于本页面: <a href="/links">友情链接</a>。</p>
+<p>你可以在本站的顶部菜单中找到该页面的链接。</p>
+<h3 id="样式示例"><a href="#样式示例" class="headerlink" title="样式示例"></a>样式示例</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230430/lvye.asia.links.1y7s8oyqgfeo.webp"
+                      alt="lvye"
+                ></p>
+<h3 id="申请友链"><a href="#申请友链" class="headerlink" title="申请友链"></a>申请友链</h3><p>目前友链申请状态: <strong>开放</strong></p>
+<p>若想通过本页面申请本站的友链，需满足以下硬性条件:</p>
+<div class="note-large notel-blue"><div class="notel-title"><p>条件</p>
+</div><div class="notel-content"><ol>
+<li>目前只支持个人博客进行申请。商业网站恕不接受友链申请。</li>
+<li>网站需要有独立的域名，不支持 IP 地址和第三方二级域名 (即允许你的独立域名下的二级域名)。</li>
+<li>博客需要保证持续更新，且博客中必须保证大部分内容均为原创内容。</li>
+<li>网站支持 HTTPS。</li>
+<li>网站如被盗，请立即联系站长删除，否则将会加入黑名单</li>
+</ol>
+ </div></div>
+
+<p>如需要申请和本博客交换友链，请在本页面下面回复，格式如下:</p>
+<div class="highlight-container" data-rel="Yml"><figure class="iseeu highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">name:</span> <span class="string">网站名称</span></span><br><span class="line"><span class="attr">link:</span> <span class="string">网站链接</span></span><br><span class="line"><span class="attr">description:</span> <span class="string">网站描述</span></span><br><span class="line"><span class="attr">avatar:</span> <span class="string">网站logo</span></span><br></pre></td></tr></table></figure></div>
+<div class="note-large notel-red"><div class="notel-title"><p>注意事项</p>
+</div><div class="notel-content"><ol>
+<li>网站名称 / 描述 / Logo 均需要符合相关法规，否则不予通过。</li>
+<li>如果选择不缓存你的网站 Logo，则友链图标会直接从你提供的 Logo URL 加载，好处是你可以随时通过更新 Logo URL 指向的图片来更新友链图标。(但是你不能通过这种形式把图标换成违规图片，一经发现直接将你网站的友链删除)</li>
+<li>申请结果博主会在本页中你的申请中进行回复，请注意留意。</li>
+<li>申请完成之后，你需要将本博客加入到你的网站中的友情链接列表中，友链相关信息如下 (请根据你的网站的实际情况进行调整)。</li>
+</ol>
+ </div></div>
+
+<h3 id="提交示例"><a href="#提交示例" class="headerlink" title="提交示例"></a>提交示例</h3><div class="highlight-container" data-rel="Yml"><figure class="iseeu highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">name:</span> <span class="string">lvye</span></span><br><span class="line"><span class="attr">link:</span> <span class="string">https://lvye.asia</span></span><br><span class="line"><span class="attr">description:</span> <span class="string">实验网站</span></span><br><span class="line"><span class="attr">avatar:</span> <span class="string">https://www.chenxinyan.top/wp-content/uploads/2023/02/1676112641431.png</span></span><br></pre></td></tr></table></figure></div>
+
+<p><strong>如果申请成功之后 2 周内检查到你网站的友链列表中没有加入本博客，则视为申请无效，届时会将你的网站从本网站的友链列表中删除。</strong></p>
+]]></content>
+      <tags>
+        <tag>友链</tag>
       </tags>
   </entry>
   <entry>
