@@ -74,7 +74,21 @@
 
   
   <url>
-    <loc>https://lvye.asia/tags/%E5%8F%8B%E9%93%BE/</loc>
+    <loc>https://lvye.asia/tags/%E9%9F%B3%E4%B9%90/</loc>
+    <lastmod>2023-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvye.asia/tags/Lx-music/</loc>
+    <lastmod>2023-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvye.asia/tags/%E8%BD%AF%E4%BB%B6/</loc>
     <lastmod>2023-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -109,21 +123,7 @@
   </url>
   
   <url>
-    <loc>https://lvye.asia/tags/%E9%9F%B3%E4%B9%90/</loc>
-    <lastmod>2023-06-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lvye.asia/tags/Lx-music/</loc>
-    <lastmod>2023-06-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lvye.asia/tags/%E8%BD%AF%E4%BB%B6/</loc>
+    <loc>https://lvye.asia/tags/%E8%AF%B4%E6%98%8E/</loc>
     <lastmod>2023-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -137,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://lvye.asia/tags/%E8%AF%B4%E6%98%8E/</loc>
+    <loc>https://lvye.asia/tags/%E5%8F%8B%E9%93%BE/</loc>
     <lastmod>2023-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
