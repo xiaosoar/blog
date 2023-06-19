@@ -1,6 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Wetab</title>
+    <url>//zh-cn/wetab.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>上此给大家介绍了<a href="/zh-cn/intro.html">青桔起始页</a>是一个简洁的起始页，而今天带来的是「Wetab」，它是一款全新的浏览器新标签页小组件，可以让你的浏览器变得更加个性化和高效。</p>
+<h2 id="一-特点："><a href="#一-特点：" class="headerlink" title="一.特点："></a>一.特点：</h2><h3 id="1-自定义主页，个性化定制"><a href="#1-自定义主页，个性化定制" class="headerlink" title="1.自定义主页，个性化定制"></a>1.自定义主页，个性化定制</h3><p>好看、好用，又好玩和快速添加常用网站，自定义图标样式，亲手打造高颜值主页，互相结合。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230513/lvye.asia-WeTab4.3tnpk1nq3tk0.webp"
+                      alt="lvye"
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230512/lvye.asia-WeTab3.5bjcomc0dek0.webp"
+                      alt="lvye"
+                ></p>
+<h3 id="2-多样化的小组件，实用高效"><a href="#2-多样化的小组件，实用高效" class="headerlink" title="2.多样化的小组件，实用高效"></a>2.多样化的小组件，实用高效</h3><p>小组件包括笔记、待办事项、倒计时、天气、纪念日、生日、今年余额、实时热搜等，非常实用。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230512/lvye.asia-WeTab.68jwt2sgj400.webp"
+                      alt="lvye"
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230513/lvye.asia-WeTab6.4zrrd773xio0.webp"
+                      alt="lvye"
+                ></p>
+<h3 id="3-轻松切换主题，美观大方"><a href="#3-轻松切换主题，美观大方" class="headerlink" title="3.轻松切换主题，美观大方"></a>3.轻松切换主题，美观大方</h3><p>Wetab提供多种主题可供选择，让你的新标签页更加美观大方，使用起来更加愉悦。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230513/lvye.asia-wetab.68cfern372s0.webp"
+                      alt="lvye"
+                ></p>
+<h3 id="4-简单易用，快速上手"><a href="#4-简单易用，快速上手" class="headerlink" title="4.简单易用，快速上手"></a>4.简单易用，快速上手</h3><p>Wetab操作简单，使用起来非常方便，即使是新手也能快速上手。</p>
+<h3 id="5-支持云端同步"><a href="#5-支持云端同步" class="headerlink" title="5.支持云端同步"></a>5.支持云端同步</h3><p>可在任何设备上使用已个性化的主页<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230513/lvye.asia-wetab2.5s1z5hdcxeg0.webp"
+                      alt="lvye"
+                ></p>
+<h2 id="2-用Wetab定制你的浏览器主页"><a href="#2-用Wetab定制你的浏览器主页" class="headerlink" title="2.用Wetab定制你的浏览器主页"></a>2.用Wetab定制你的浏览器主页</h2><a class="button  regular" href='https://web.wetab.link/' title='网页版'><i class='fa-solid fa-browser'></i> 网页版</a>
+
+<a class="button  regular" href='https://microsoftedge.microsoft.com/addons/detail/wetab-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5/bpelnogcookhocnaokfpoeinibimbeff' title='Edge 扩展'><i class='fa-brands fa-edge'></i> Edge 扩展</a>
+<a class="button  regular" href='https://chrome.google.com/webstore/detail/wetab-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5/aikflfpejipbpjdlfabpgclhblkpaafo' title='Chrome 扩展'><i class='fa-brands fa-chrome'></i> Chrome 扩展</a>
+<a class="button  regular" href='https://apps.apple.com/us/app/wetab-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5/id6444470807' title='Safari 扩展'><i class='fa-brands fa-safari'></i> Safari 扩展</a>
+<a class="button  regular" href='https://extension.extfans.com/crx-v2/aikflfpejipbpjdlfabpgclhblkpaafo/a70d9b55e2dfacab049c52e6c324b764/wetab-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5@latest.zip?vd=2023/5/13' title='CRX 文件'><i class='fa-solid fa-cloud-arrow-up'></i> CRX 文件</a>
+]]></content>
+      <tags>
+        <tag>起始页</tag>
+        <tag>Wetab</tag>
+        <tag>新标签页</tag>
+        <tag>网站</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Lx music</title>
     <url>//zh-cn/Lx-music.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="一-简介"><a href="#一-简介" class="headerlink" title="一.简介"></a>一.简介</h2><p>LX music(落雪音乐)是一个<strong>免费&amp;开源</strong>的音乐查找工具，支持五大音乐平台/融合搜索的搜索、播放、下载功能，并支持所有系统(计划支持IOS)</p>
@@ -118,60 +172,6 @@
         <tag>音乐</tag>
         <tag>Lx music</tag>
         <tag>软件</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Wetab</title>
-    <url>//zh-cn/wetab.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>上此给大家介绍了<a href="/zh-cn/intro.html">青桔起始页</a>是一个简洁的起始页，而今天带来的是「Wetab」，它是一款全新的浏览器新标签页小组件，可以让你的浏览器变得更加个性化和高效。</p>
-<h2 id="一-特点："><a href="#一-特点：" class="headerlink" title="一.特点："></a>一.特点：</h2><h3 id="1-自定义主页，个性化定制"><a href="#1-自定义主页，个性化定制" class="headerlink" title="1.自定义主页，个性化定制"></a>1.自定义主页，个性化定制</h3><p>好看、好用，又好玩和快速添加常用网站，自定义图标样式，亲手打造高颜值主页，互相结合。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230513/lvye.asia-WeTab4.3tnpk1nq3tk0.webp"
-                      alt="lvye"
-                ><br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230512/lvye.asia-WeTab3.5bjcomc0dek0.webp"
-                      alt="lvye"
-                ></p>
-<h3 id="2-多样化的小组件，实用高效"><a href="#2-多样化的小组件，实用高效" class="headerlink" title="2.多样化的小组件，实用高效"></a>2.多样化的小组件，实用高效</h3><p>小组件包括笔记、待办事项、倒计时、天气、纪念日、生日、今年余额、实时热搜等，非常实用。<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230512/lvye.asia-WeTab.68jwt2sgj400.webp"
-                      alt="lvye"
-                ><br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230513/lvye.asia-WeTab6.4zrrd773xio0.webp"
-                      alt="lvye"
-                ></p>
-<h3 id="3-轻松切换主题，美观大方"><a href="#3-轻松切换主题，美观大方" class="headerlink" title="3.轻松切换主题，美观大方"></a>3.轻松切换主题，美观大方</h3><p>Wetab提供多种主题可供选择，让你的新标签页更加美观大方，使用起来更加愉悦。<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230513/lvye.asia-wetab.68cfern372s0.webp"
-                      alt="lvye"
-                ></p>
-<h3 id="4-简单易用，快速上手"><a href="#4-简单易用，快速上手" class="headerlink" title="4.简单易用，快速上手"></a>4.简单易用，快速上手</h3><p>Wetab操作简单，使用起来非常方便，即使是新手也能快速上手。</p>
-<h3 id="5-支持云端同步"><a href="#5-支持云端同步" class="headerlink" title="5.支持云端同步"></a>5.支持云端同步</h3><p>可在任何设备上使用已个性化的主页<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230513/lvye.asia-wetab2.5s1z5hdcxeg0.webp"
-                      alt="lvye"
-                ></p>
-<h2 id="2-用Wetab定制你的浏览器主页"><a href="#2-用Wetab定制你的浏览器主页" class="headerlink" title="2.用Wetab定制你的浏览器主页"></a>2.用Wetab定制你的浏览器主页</h2><a class="button  regular" href='https://web.wetab.link/' title='网页版'><i class='fa-solid fa-browser'></i> 网页版</a>
-
-<a class="button  regular" href='https://microsoftedge.microsoft.com/addons/detail/wetab-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5/bpelnogcookhocnaokfpoeinibimbeff' title='Edge 扩展'><i class='fa-brands fa-edge'></i> Edge 扩展</a>
-<a class="button  regular" href='https://chrome.google.com/webstore/detail/wetab-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5/aikflfpejipbpjdlfabpgclhblkpaafo' title='Chrome 扩展'><i class='fa-brands fa-chrome'></i> Chrome 扩展</a>
-<a class="button  regular" href='https://apps.apple.com/us/app/wetab-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5/id6444470807' title='Safari 扩展'><i class='fa-brands fa-safari'></i> Safari 扩展</a>
-<a class="button  regular" href='https://extension.extfans.com/crx-v2/aikflfpejipbpjdlfabpgclhblkpaafo/a70d9b55e2dfacab049c52e6c324b764/wetab-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5@latest.zip?vd=2023/5/13' title='CRX 文件'><i class='fa-solid fa-cloud-arrow-up'></i> CRX 文件</a>
-]]></content>
-      <tags>
-        <tag>起始页</tag>
-        <tag>Wetab</tag>
-        <tag>新标签页</tag>
-        <tag>网站</tag>
       </tags>
   </entry>
   <entry>
