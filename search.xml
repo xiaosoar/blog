@@ -1,116 +1,281 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>hai</title>
-      <link href="/undefined/hai/"/>
-      <url>/undefined/hai/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="如果你只能看到此文章请联系作者"><a href="#如果你只能看到此文章请联系作者" class="headerlink" title="如果你只能看到此文章请联系作者"></a>如果你只能看到此文章请联系作者</h1><p> 本文章用于本地测试主题的</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 说明 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Wetab</title>
-      <link href="//zh-cn/wetab.html"/>
-      <url>//zh-cn/wetab.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>上此给大家介绍了<a href="/zh-cn/intro.html">青桔起始页</a>是一个简洁的起始页，而今天带来的是「Wetab」，它是一款全新的浏览器新标签页小组件，可以让你的浏览器变得更加个性化和高效。</p><h2 id="一-特点："><a href="#一-特点：" class="headerlink" title="一.特点："></a>一.特点：</h2><h3 id="1-自定义主页，个性化定制"><a href="#1-自定义主页，个性化定制" class="headerlink" title="1.自定义主页，个性化定制"></a>1.自定义主页，个性化定制</h3><p>好看、好用，又好玩和快速添加常用网站，自定义图标样式，亲手打造高颜值主页，互相结合。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230513/lvye.asia-WeTab4.3tnpk1nq3tk0.webp"                      alt="lvye"                ><br><img                       lazyload                     src="/images/loading.svg"                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230512/lvye.asia-WeTab3.5bjcomc0dek0.webp"                      alt="lvye"                ></p><h3 id="2-多样化的小组件，实用高效"><a href="#2-多样化的小组件，实用高效" class="headerlink" title="2.多样化的小组件，实用高效"></a>2.多样化的小组件，实用高效</h3><p>小组件包括笔记、待办事项、倒计时、天气、纪念日、生日、今年余额、实时热搜等，非常实用。<br><img                       lazyload                     src="/images/loading.svg"                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230512/lvye.asia-WeTab.68jwt2sgj400.webp"                      alt="lvye"                ><br><img                       lazyload                     src="/images/loading.svg"                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230513/lvye.asia-WeTab6.4zrrd773xio0.webp"                      alt="lvye"                ></p><h3 id="3-轻松切换主题，美观大方"><a href="#3-轻松切换主题，美观大方" class="headerlink" title="3.轻松切换主题，美观大方"></a>3.轻松切换主题，美观大方</h3><p>Wetab提供多种主题可供选择，让你的新标签页更加美观大方，使用起来更加愉悦。<br><img                       lazyload                     src="/images/loading.svg"                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230513/lvye.asia-wetab.68cfern372s0.webp"                      alt="lvye"                ></p><h3 id="4-简单易用，快速上手"><a href="#4-简单易用，快速上手" class="headerlink" title="4.简单易用，快速上手"></a>4.简单易用，快速上手</h3><p>Wetab操作简单，使用起来非常方便，即使是新手也能快速上手。</p><h3 id="5-支持云端同步"><a href="#5-支持云端同步" class="headerlink" title="5.支持云端同步"></a>5.支持云端同步</h3><p>可在任何设备上使用已个性化的主页<br><img                       lazyload                     src="/images/loading.svg"                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230513/lvye.asia-wetab2.5s1z5hdcxeg0.webp"                      alt="lvye"                ></p><h2 id="2-用Wetab定制你的浏览器主页"><a href="#2-用Wetab定制你的浏览器主页" class="headerlink" title="2.用Wetab定制你的浏览器主页"></a>2.用Wetab定制你的浏览器主页</h2><a class="button  regular" href='https://web.wetab.link/' title='网页版'><i class='fa-solid fa-browser'></i> 网页版</a><a class="button  regular" href='https://microsoftedge.microsoft.com/addons/detail/wetab-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5/bpelnogcookhocnaokfpoeinibimbeff' title='Edge 扩展'><i class='fa-brands fa-edge'></i> Edge 扩展</a><a class="button  regular" href='https://chrome.google.com/webstore/detail/wetab-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5/aikflfpejipbpjdlfabpgclhblkpaafo' title='Chrome 扩展'><i class='fa-brands fa-chrome'></i> Chrome 扩展</a><a class="button  regular" href='https://apps.apple.com/us/app/wetab-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5/id6444470807' title='Safari 扩展'><i class='fa-brands fa-safari'></i> Safari 扩展</a><a class="button  regular" href='https://extension.extfans.com/crx-v2/aikflfpejipbpjdlfabpgclhblkpaafo/a70d9b55e2dfacab049c52e6c324b764/wetab-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5@latest.zip?vd=2023/5/13' title='CRX 文件'><i class='fa-solid fa-cloud-arrow-up'></i> CRX 文件</a>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 起始页 </tag>
-            
-            <tag> Wetab </tag>
-            
-            <tag> 新标签页 </tag>
-            
-            <tag> 网站 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>友链提交说明</title>
-      <link href="//zh-cn/links.html"/>
-      <url>//zh-cn/links.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="本站友链相关信息"><a href="#本站友链相关信息" class="headerlink" title="本站友链相关信息"></a>本站友链相关信息</h2><h3 id="友链页面的位置"><a href="#友链页面的位置" class="headerlink" title="友链页面的位置"></a>友链页面的位置</h3><p>现在本站的所有友联都会放置于本页面: <a href="/links">友情链接</a>。</p><p>你可以在本站的顶部菜单中找到该页面的链接。</p><h3 id="样式示例"><a href="#样式示例" class="headerlink" title="样式示例"></a>样式示例</h3><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230430/lvye.asia.links.1y7s8oyqgfeo.webp"                      alt="lvye"                ></p><h3 id="申请友链"><a href="#申请友链" class="headerlink" title="申请友链"></a>申请友链</h3><p>目前友链申请状态: <strong>开放</strong></p><p>若想通过本页面申请本站的友链，需满足以下硬性条件:</p><div class="note-large blue"><div class="notel-title"><p>条件</p></div><div class="notel-content"><ol><li>目前只支持个人博客进行申请。商业网站恕不接受友链申请。</li><li>网站需要有独立的域名，不支持 IP 地址和第三方二级域名 (即允许你的独立域名下的二级域名)。</li><li>博客需要保证持续更新，且博客中必须保证大部分内容均为原创内容。</li><li>网站支持 HTTPS。</li><li>网站如被盗，请立即联系站长删除，否则将会加入黑名单</li></ol></div></div><p>如需要申请和本博客交换友链，请在本页面下面回复，格式如下:</p><div class="highlight-container" data-rel="Yml"><figure class="iseeu highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">name:</span> <span class="string">网站名称</span></span><br><span class="line"><span class="attr">link:</span> <span class="string">网站链接</span></span><br><span class="line"><span class="attr">description:</span> <span class="string">网站描述</span></span><br><span class="line"><span class="attr">avatar:</span> <span class="string">网站logo</span></span><br></pre></td></tr></table></figure></div><div class="note-large red"><div class="notel-title"><p>注意事项</p></div><div class="notel-content"><ol><li>网站名称 / 描述 / Logo 均需要符合相关法规，否则不予通过。</li><li>如果选择不缓存你的网站 Logo，则友链图标会直接从你提供的 Logo URL 加载，好处是你可以随时通过更新 Logo URL 指向的图片来更新友链图标。(但是你不能通过这种形式把图标换成违规图片，一经发现直接将你网站的友链删除)</li><li>申请结果博主会在本页中你的申请中进行回复，请注意留意。</li><li>申请完成之后，你需要将本博客加入到你的网站中的友情链接列表中，友链相关信息如下 (请根据你的网站的实际情况进行调整)。</li></ol></div></div><h3 id="提交示例"><a href="#提交示例" class="headerlink" title="提交示例"></a>提交示例</h3><div class="highlight-container" data-rel="Yml"><figure class="iseeu highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">name:</span> <span class="string">lvye</span></span><br><span class="line"><span class="attr">link:</span> <span class="string">https://lvye.asia</span></span><br><span class="line"><span class="attr">description:</span> <span class="string">实验网站</span></span><br><span class="line"><span class="attr">avatar:</span> <span class="string">https://www.chenxinyan.top/wp-content/uploads/2023/02/1676112641431.png</span></span><br></pre></td></tr></table></figure></div><p><strong>如果申请成功之后 2 周内检查到你网站的友链列表中没有加入本博客，则视为申请无效，届时会将你的网站从本网站的友链列表中删除。</strong></p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 友链 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>青桔起始页</title>
-      <link href="//zh-cn/intro.html"/>
-      <url>//zh-cn/intro.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="一-功能"><a href="#一-功能" class="headerlink" title="一.功能"></a>一.功能</h2><div class="note success"><p>全平台兼容，即开即用.</p></div><h3 id="1-搜索"><a href="#1-搜索" class="headerlink" title="1.搜索"></a>1.搜索</h3><p><strong>全能搜索框</strong></p><p>支持任何搜索引擎 / 一键翻译搜索内容 / 一键直达常用网站 / 输入算式直接计算结果——助您事半功倍。<br><img                       lazyload                     src="/images/loading.svg"                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230429/lime-intro-detail-search.webp"                      alt="lime-intro-detail-search"                ></p><h3 id="2-网站捷径"><a href="#2-网站捷径" class="headerlink" title="2.网站捷径"></a>2.网站捷径</h3><p><strong>自定义常用网站</strong></p><p>支持自定义名称、图标、布局，将您的常用网站收纳得井井有条。<br><img                       lazyload                     src="/images/loading.svg"                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230429/lime-intro-detail-cusnav.webp"                      alt="lime-intro-detail-cusnav"                ></p><h3 id="3-便笺"><a href="#3-便笺" class="headerlink" title="3.便笺"></a>3.便笺</h3><p>随时记录您的灵感、待办事项和备忘清单。<br><img                       lazyload                     src="/images/loading.svg"                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230430/lvye.asia.firefox_UjgOrBHteN.78biwiygqhhc.webp"                      alt="lvye"                ></p><h3 id="4-壁纸"><a href="#4-壁纸" class="headerlink" title="4.壁纸"></a>4.壁纸</h3><p> 摄于全球各地的优美风景供您欣赏。支持动态壁纸、静态壁纸；每日更新一张来自微软必应的精选壁纸；当然，您亦可将自己喜爱的图片设为壁纸。<br> <img                       lazyload                     src="/images/loading.svg"                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230429/lime-intro-detail-wallpaper.webp"                      alt="lime-intro-detail-wallpaper"                ></p><h3 id="随心自定义"><a href="#随心自定义" class="headerlink" title="随心自定义"></a>随心自定义</h3><p>30+ 个性化设置，打造专属于您的起始页。</p><h4 id="深色主题，深夜也悦目。"><a href="#深色主题，深夜也悦目。" class="headerlink" title="深色主题，深夜也悦目。"></a>深色主题，深夜也悦目。</h4><p>经过精心设计的深色主题，完美适配不同时段的配色偏好。<br><img                       lazyload                     src="/images/loading.svg"                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230429/lime-intro-detail-dark.webp"                      alt="lime-intro-detail-dark"                ></p><h2 id="二-现在开始，定义起始页。"><a href="#二-现在开始，定义起始页。" class="headerlink" title="二.现在开始，定义起始页。"></a>二.现在开始，定义起始页。</h2><p>完全免费 · 纯净无广告 · 即开即用</p><a class="button  regular" href='https://limestart.cn/' title='网页版'>网页版</a><a class="button  regular" href='https://microsoftedge.microsoft.com/addons/detail/pcpnigdkpcgemocnjhebmajldpjlbeom' title='Edge 扩展'><i class='fa-brands fa-edge'></i> Edge 扩展</a><a class="button  regular" href='https://chrome.google.com/webstore/detail/%E9%9D%92%E6%9F%A0%E8%B5%B7%E5%A7%8B%E9%A1%B5/aajmeahnoefldipnjgodkobfdcpmapno' title='Chrome 扩展'><i class='fa-brands fa-chrome'></i> Chrome 扩展</a><a class="button  regular" href='https://addons.mozilla.org/zh-CN/firefox/addon/%E9%9D%92%E6%9F%A0%E8%B5%B7%E5%A7%8B%E9%A1%B5/' title='Firefox 扩展'><i class='fa-brands fa-firefox-browser'></i> Firefox 扩展</a><a class="button  regular" href='https://maorx.lanzout.com/b00vbvwwd' title='CRX 文件'><i class='fa-solid fa-cloud-arrow-up'></i> CRX 文件</a>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 起始页 </tag>
-            
-            <tag> 网站 </tag>
-            
-            <tag> 青桔起始页 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Lx music</title>
-      <link href="//zh-cn/Lx-music.html"/>
-      <url>//zh-cn/Lx-music.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="一-简介"><a href="#一-简介" class="headerlink" title="一.简介"></a>一.简介</h2><p>LX music(落雪音乐)是一个<strong>免费&amp;开源</strong>的音乐查找工具，支持五大音乐平台/融合搜索的搜索、播放、下载功能，并支持所有系统(计划支持IOS)</p><h3 id="1-搜索"><a href="#1-搜索" class="headerlink" title="1.搜索"></a>1.搜索</h3><p>支持企鹅、网易云、酷狗、酷我、咪咕音乐的搜索功能</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230420/lvye.asia.lx-music-desktop_VHpjDKTedJ.webp"                      alt="酷我搜索"                ></p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230420/lvye.asia.lx-music-desktop_J8fLxwmluf.webp"                      alt="聚合搜索"                ></p><h3 id="2-音乐播放"><a href="#2-音乐播放" class="headerlink" title="2.音乐播放"></a>2.音乐播放</h3><p>软件支持查看评论、歌词</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230420/lvye.asia.lx-music-desktop_MhPE7y82KB.webp"                      alt="歌词"                ></p><h3 id="3-音乐下载"><a href="#3-音乐下载" class="headerlink" title="3.音乐下载"></a>3.音乐下载</h3><p>支持五大平台音乐下载(本功能需进入设置-下载设置-是否启用下载功能，把前面打勾，可对歌曲右键即可下载)</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230420/lvye.asia.lx-music-desktop_zo2LiLeUeE.webp"                      alt="下载"                ></p><p>下载后的歌曲自动转mp3</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230420/lvye.asia.explorer_iobJyszMdQ.webp"                      alt="mp3"                ></p><h3 id="4-歌单"><a href="#4-歌单" class="headerlink" title="4.歌单"></a>4.歌单</h3><p>支持所有平台的歌单</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230420/lvye.asia.lx-music-desktop_qVyPuvvdxS.webp"                      alt="lvye"                ></p><p>也支持所有平台导入歌单</p><div class="note-large blue"><div class="notel-title"><p>提示</p></div><div class="notel-content"><p>1.不支持跨源打开歌单，请确认要打开的歌单与当前歌单源是否对应  </p><p>2.酷狗源不支持用歌单D打开，但支持酷狗码打开 </p><p>3.网易源的”我喜欢”歌单需要Token才能打开，详情看<a class="link"   href="https://lxmusic.toside.cn/desktop/faq/cannot-open-songlist" >FAQ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p></div></div><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230420/lvye.asia.lx-music-desktop_sgeiQnD3QQ.webp"                      alt="lvye"                ></p><h3 id="5-排行榜"><a href="#5-排行榜" class="headerlink" title="5.排行榜"></a>5.排行榜</h3><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230420/lvye.asia.lx-music-desktop_0PJQRhINSz.webp"                      alt="lvye"                ></p><h2 id="二-使用说明"><a href="#二-使用说明" class="headerlink" title="二.使用说明"></a>二.使用说明</h2><h3 id="1-安装失败"><a href="#1-安装失败" class="headerlink" title="1.安装失败"></a>1.安装失败</h3><h4 id="Windows-安装版安装失败"><a href="#Windows-安装版安装失败" class="headerlink" title="Windows 安装版安装失败"></a>Windows 安装版安装失败</h4><h5 id="覆盖安装时安装失败"><a href="#覆盖安装时安装失败" class="headerlink" title="覆盖安装时安装失败"></a>覆盖安装时安装失败</h5><p>出现这个问题的原因一般是你当初在安装本软件的时候是以管理员身份安装的，运行软件的时候没有以管理员身份运行，所以卸载后无法再装上。</p><p>安装本软件时建议选择 <code>为当前用户安装</code>，并安装在当前用户目录或者安装在不需要管理员权限的目录（即其他分区下），不要选<code>为所有用户安装</code>。</p><h5 id="提示安装程序并未成功地运行完成或安装过程中出现错误"><a href="#提示安装程序并未成功地运行完成或安装过程中出现错误" class="headerlink" title="提示安装程序并未成功地运行完成或安装过程中出现错误"></a>提示安装程序并未成功地运行完成或安装过程中出现错误</h5><p>对于部分电脑出现安装失败的问题，可以做出以下尝试：</p><ul><li>若你之前可以安装成功，但现在安装失败，就去<strong>控制面板-程序和功能</strong>或用第三方卸载工具看下有没有之前的版本残留，若同时在不同路径下安装了多个版本就可能会出现该问题，这种情况卸载掉所有版本重新安装即可</li><li>清理安装路径下的残留文件</li><li>清理注册表（建议用清理工具清理）</li></ul><h5 id="安装结束后，无法启动软件"><a href="#安装结束后，无法启动软件" class="headerlink" title="安装结束后，无法启动软件"></a>安装结束后，无法启动软件</h5><p>安装结束后，安装目录只有卸载程序没有其他内容</p><ul><li>可能是你使用错了安装包，例如使用Windows arm64版安装包在x64系统安装就会出现这个问题</li><li>覆盖安装时更改了安装目录，覆盖安装时不能更改安装目录，若想更改目录需将软件卸载再安装</li></ul><p>解决方式：使用控制面板-卸载功能卸载应用，然后选对安装包安装一般即可解决。</p><h5 id="提示缺少xxx-dll"><a href="#提示缺少xxx-dll" class="headerlink" title="提示缺少xxx.dll"></a>提示缺少<code>xxx.dll</code></h5><p>如果你使用的是免安装版（压缩包版），则需要将所有文件解压出来才能运行，否则将提示缺失<code>ffmpeg.dll</code>之类的问题。</p><p>如果你使用的是安装版出现这个提示，则可能是你电脑缺少某些dll导致的，正常的系统是没有这个问题的，可以尝试如下几个解决办法：</p><ul><li>尝试重新安装软件</li><li>以管理员权限打开<code>cmd</code>，输入<code>sfc /scannow</code>回车等待检查完成重启电脑</li><li>若上面的方法<strong>修复、重启</strong>电脑后仍然不行，就自行百度弹出的<strong>错误信息</strong>看下别人是怎么解决的</li></ul><h4 id="MAC-OS无法启动软件，提示-lx-music-desktop-已损坏、无法打开“lx-music-desktop”，无法验证开发者"><a href="#MAC-OS无法启动软件，提示-lx-music-desktop-已损坏、无法打开“lx-music-desktop”，无法验证开发者" class="headerlink" title="MAC OS无法启动软件，提示 lx-music-desktop 已损坏、无法打开“lx-music-desktop”，无法验证开发者"></a>MAC OS无法启动软件，提示 lx-music-desktop 已损坏、无法打开“lx-music-desktop”，无法验证开发者</h4><p>这是因为软件没有签名，被系统阻止运行</p><p>在终端里输入 <code>sudo xattr -rd com.apple.quarantine /Applications/lx-music-desktop.app</code>，然后输入你的电脑密码即可</p><p>还可以参考：</p><ul><li><a class="link"   href="http://www.pc6.com/edu/168719.html" >http://www.pc6.com/edu/168719.html <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li><li><a class="link"   href="https://blog.csdn.net/for641/article/details/104811538" >https://blog.csdn.net/for641/article/details/104811538 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li></ul><h3 id="2-更改音乐来源"><a href="#2-更改音乐来源" class="headerlink" title="2.更改音乐来源"></a>2.更改音乐来源</h3><p>依次打开设置-基本设置-音乐来源-测试接口(可能下载功能需要使用临时接口)</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://cdn.jsdelivr.net/gh/Cxy-an/img@main/20230420/lvye.asia.QKg9xh2GE8.webp"                      alt="lvye"                ></p><h3 id="帮助文档"><a href="#帮助文档" class="headerlink" title="帮助文档"></a>帮助文档</h3><p>桌面端:<a class="link"   href="https://lxmusic.toside.cn/desktop" >https://lxmusic.toside.cn/desktop <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p><p>移动版:<a class="link"   href="https://lxmusic.toside.cn/mobile" >https://lxmusic.toside.cn/mobile <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p><h2 id="三-下载"><a href="#三-下载" class="headerlink" title="三.下载"></a>三.下载</h2><a class="button  regular" href='https://github.com/lyswhut/lx-music-desktop/releases' title='电脑版'><i class='fa-brands fa-github'></i> 电脑版</a><a class="button  regular" href='https://github.com/lyswhut/lx-music-mobile/releases' title='手机版'><i class='fa-brands fa-github'></i> 手机版</a><p>推荐国内用户使用此方式下载，软件发布更新时，此网盘的安装包会同步更新到最新版本。</p><a class="button  regular" href='https://www.lanzoui.com/b0bf2cfa/' title='云盘下载'><i class='fa-solid fa-download'></i> 云盘下载</a><p>密码：<code>glqw</code></p><div class="note-large blue"><div class="notel-title"><p>提示</p></div><div class="notel-content"><p>若链接无法打开请百度：蓝奏云链接打不开</p></div></div>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 音乐 </tag>
-            
-            <tag> Lx music </tag>
-            
-            <tag> 软件 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
+<search>
+  <entry>
+    <title>友链提交说明</title>
+    <url>//zh-cn/links.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="本站友链相关信息"><a href="#本站友链相关信息" class="headerlink" title="本站友链相关信息"></a>本站友链相关信息</h2><h3 id="友链页面的位置"><a href="#友链页面的位置" class="headerlink" title="友链页面的位置"></a>友链页面的位置</h3><p>现在本站的所有友联都会放置于本页面: <a href="/links">友情链接</a>。</p>
+<p>你可以在本站的顶部菜单中找到该页面的链接。</p>
+<h3 id="样式示例"><a href="#样式示例" class="headerlink" title="样式示例"></a>样式示例</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230430/lvye.asia.links.1y7s8oyqgfeo.webp"
+                      alt="lvye"
+                ></p>
+<h3 id="申请友链"><a href="#申请友链" class="headerlink" title="申请友链"></a>申请友链</h3><p>目前友链申请状态: <strong>开放</strong></p>
+<p>若想通过本页面申请本站的友链，需满足以下硬性条件:</p>
+<div class="note-large blue"><div class="notel-title"><p>条件</p>
+</div><div class="notel-content"><ol>
+<li>目前只支持个人博客进行申请。商业网站恕不接受友链申请。</li>
+<li>网站需要有独立的域名，不支持 IP 地址和第三方二级域名 (即允许你的独立域名下的二级域名)。</li>
+<li>博客需要保证持续更新，且博客中必须保证大部分内容均为原创内容。</li>
+<li>网站支持 HTTPS。</li>
+<li>网站如被盗，请立即联系站长删除，否则将会加入黑名单</li>
+</ol>
+</div></div>
+
+<p>如需要申请和本博客交换友链，请在本页面下面回复，格式如下:</p>
+<div class="highlight-container" data-rel="Yml"><figure class="iseeu highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">name:</span> <span class="string">网站名称</span></span><br><span class="line"><span class="attr">link:</span> <span class="string">网站链接</span></span><br><span class="line"><span class="attr">description:</span> <span class="string">网站描述</span></span><br><span class="line"><span class="attr">avatar:</span> <span class="string">网站logo</span></span><br></pre></td></tr></table></figure></div>
+<div class="note-large red"><div class="notel-title"><p>注意事项</p>
+</div><div class="notel-content"><ol>
+<li>网站名称 / 描述 / Logo 均需要符合相关法规，否则不予通过。</li>
+<li>如果选择不缓存你的网站 Logo，则友链图标会直接从你提供的 Logo URL 加载，好处是你可以随时通过更新 Logo URL 指向的图片来更新友链图标。(但是你不能通过这种形式把图标换成违规图片，一经发现直接将你网站的友链删除)</li>
+<li>申请结果博主会在本页中你的申请中进行回复，请注意留意。</li>
+<li>申请完成之后，你需要将本博客加入到你的网站中的友情链接列表中，友链相关信息如下 (请根据你的网站的实际情况进行调整)。</li>
+</ol>
+</div></div>
+
+<h3 id="提交示例"><a href="#提交示例" class="headerlink" title="提交示例"></a>提交示例</h3><div class="highlight-container" data-rel="Yml"><figure class="iseeu highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">name:</span> <span class="string">lvye</span></span><br><span class="line"><span class="attr">link:</span> <span class="string">https://lvye.asia</span></span><br><span class="line"><span class="attr">description:</span> <span class="string">实验网站</span></span><br><span class="line"><span class="attr">avatar:</span> <span class="string">https://www.chenxinyan.top/wp-content/uploads/2023/02/1676112641431.png</span></span><br></pre></td></tr></table></figure></div>
+
+<p><strong>如果申请成功之后 2 周内检查到你网站的友链列表中没有加入本博客，则视为申请无效，届时会将你的网站从本网站的友链列表中删除。</strong></p>
+]]></content>
+      <tags>
+        <tag>友链</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Wetab</title>
+    <url>//zh-cn/wetab.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>上此给大家介绍了<a href="/zh-cn/intro.html">青桔起始页</a>是一个简洁的起始页，而今天带来的是「Wetab」，它是一款全新的浏览器新标签页小组件，可以让你的浏览器变得更加个性化和高效。</p>
+<h2 id="一-特点："><a href="#一-特点：" class="headerlink" title="一.特点："></a>一.特点：</h2><h3 id="1-自定义主页，个性化定制"><a href="#1-自定义主页，个性化定制" class="headerlink" title="1.自定义主页，个性化定制"></a>1.自定义主页，个性化定制</h3><p>好看、好用，又好玩和快速添加常用网站，自定义图标样式，亲手打造高颜值主页，互相结合。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230513/lvye.asia-WeTab4.3tnpk1nq3tk0.webp"
+                      alt="lvye"
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230512/lvye.asia-WeTab3.5bjcomc0dek0.webp"
+                      alt="lvye"
+                ></p>
+<h3 id="2-多样化的小组件，实用高效"><a href="#2-多样化的小组件，实用高效" class="headerlink" title="2.多样化的小组件，实用高效"></a>2.多样化的小组件，实用高效</h3><p>小组件包括笔记、待办事项、倒计时、天气、纪念日、生日、今年余额、实时热搜等，非常实用。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230512/lvye.asia-WeTab.68jwt2sgj400.webp"
+                      alt="lvye"
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230513/lvye.asia-WeTab6.4zrrd773xio0.webp"
+                      alt="lvye"
+                ></p>
+<h3 id="3-轻松切换主题，美观大方"><a href="#3-轻松切换主题，美观大方" class="headerlink" title="3.轻松切换主题，美观大方"></a>3.轻松切换主题，美观大方</h3><p>Wetab提供多种主题可供选择，让你的新标签页更加美观大方，使用起来更加愉悦。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230513/lvye.asia-wetab.68cfern372s0.webp"
+                      alt="lvye"
+                ></p>
+<h3 id="4-简单易用，快速上手"><a href="#4-简单易用，快速上手" class="headerlink" title="4.简单易用，快速上手"></a>4.简单易用，快速上手</h3><p>Wetab操作简单，使用起来非常方便，即使是新手也能快速上手。</p>
+<h3 id="5-支持云端同步"><a href="#5-支持云端同步" class="headerlink" title="5.支持云端同步"></a>5.支持云端同步</h3><p>可在任何设备上使用已个性化的主页<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230513/lvye.asia-wetab2.5s1z5hdcxeg0.webp"
+                      alt="lvye"
+                ></p>
+<h2 id="2-用Wetab定制你的浏览器主页"><a href="#2-用Wetab定制你的浏览器主页" class="headerlink" title="2.用Wetab定制你的浏览器主页"></a>2.用Wetab定制你的浏览器主页</h2><a class="button  regular" href='https://web.wetab.link/' title='网页版'><i class='fa-solid fa-browser'></i> 网页版</a>
+
+<a class="button  regular" href='https://microsoftedge.microsoft.com/addons/detail/wetab-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5/bpelnogcookhocnaokfpoeinibimbeff' title='Edge 扩展'><i class='fa-brands fa-edge'></i> Edge 扩展</a>
+<a class="button  regular" href='https://chrome.google.com/webstore/detail/wetab-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5/aikflfpejipbpjdlfabpgclhblkpaafo' title='Chrome 扩展'><i class='fa-brands fa-chrome'></i> Chrome 扩展</a>
+<a class="button  regular" href='https://apps.apple.com/us/app/wetab-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5/id6444470807' title='Safari 扩展'><i class='fa-brands fa-safari'></i> Safari 扩展</a>
+<a class="button  regular" href='https://extension.extfans.com/crx-v2/aikflfpejipbpjdlfabpgclhblkpaafo/a70d9b55e2dfacab049c52e6c324b764/wetab-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5@latest.zip?vd=2023/5/13' title='CRX 文件'><i class='fa-solid fa-cloud-arrow-up'></i> CRX 文件</a>
+]]></content>
+      <tags>
+        <tag>起始页</tag>
+        <tag>Wetab</tag>
+        <tag>新标签页</tag>
+        <tag>网站</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>青桔起始页</title>
+    <url>//zh-cn/intro.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="一-功能"><a href="#一-功能" class="headerlink" title="一.功能"></a>一.功能</h2><div class="note success"><p>全平台兼容，即开即用.</p>
+</div>
+
+<h3 id="1-搜索"><a href="#1-搜索" class="headerlink" title="1.搜索"></a>1.搜索</h3><p><strong>全能搜索框</strong></p>
+<p>支持任何搜索引擎 / 一键翻译搜索内容 / 一键直达常用网站 / 输入算式直接计算结果——助您事半功倍。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230429/lime-intro-detail-search.webp"
+                      alt="lime-intro-detail-search"
+                ></p>
+<h3 id="2-网站捷径"><a href="#2-网站捷径" class="headerlink" title="2.网站捷径"></a>2.网站捷径</h3><p><strong>自定义常用网站</strong></p>
+<p>支持自定义名称、图标、布局，将您的常用网站收纳得井井有条。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230429/lime-intro-detail-cusnav.webp"
+                      alt="lime-intro-detail-cusnav"
+                ></p>
+<h3 id="3-便笺"><a href="#3-便笺" class="headerlink" title="3.便笺"></a>3.便笺</h3><p>随时记录您的灵感、待办事项和备忘清单。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230430/lvye.asia.firefox_UjgOrBHteN.78biwiygqhhc.webp"
+                      alt="lvye"
+                ></p>
+<h3 id="4-壁纸"><a href="#4-壁纸" class="headerlink" title="4.壁纸"></a>4.壁纸</h3><p> 摄于全球各地的优美风景供您欣赏。支持动态壁纸、静态壁纸；每日更新一张来自微软必应的精选壁纸；当然，您亦可将自己喜爱的图片设为壁纸。<br> <img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230429/lime-intro-detail-wallpaper.webp"
+                      alt="lime-intro-detail-wallpaper"
+                ></p>
+<h3 id="随心自定义"><a href="#随心自定义" class="headerlink" title="随心自定义"></a>随心自定义</h3><p>30+ 个性化设置，打造专属于您的起始页。</p>
+<h4 id="深色主题，深夜也悦目。"><a href="#深色主题，深夜也悦目。" class="headerlink" title="深色主题，深夜也悦目。"></a>深色主题，深夜也悦目。</h4><p>经过精心设计的深色主题，完美适配不同时段的配色偏好。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230429/lime-intro-detail-dark.webp"
+                      alt="lime-intro-detail-dark"
+                ></p>
+<h2 id="二-现在开始，定义起始页。"><a href="#二-现在开始，定义起始页。" class="headerlink" title="二.现在开始，定义起始页。"></a>二.现在开始，定义起始页。</h2><p>完全免费 · 纯净无广告 · 即开即用</p>
+<a class="button  regular" href='https://limestart.cn/' title='网页版'>网页版</a>
+
+<a class="button  regular" href='https://microsoftedge.microsoft.com/addons/detail/pcpnigdkpcgemocnjhebmajldpjlbeom' title='Edge 扩展'><i class='fa-brands fa-edge'></i> Edge 扩展</a>
+<a class="button  regular" href='https://chrome.google.com/webstore/detail/%E9%9D%92%E6%9F%A0%E8%B5%B7%E5%A7%8B%E9%A1%B5/aajmeahnoefldipnjgodkobfdcpmapno' title='Chrome 扩展'><i class='fa-brands fa-chrome'></i> Chrome 扩展</a>
+<a class="button  regular" href='https://addons.mozilla.org/zh-CN/firefox/addon/%E9%9D%92%E6%9F%A0%E8%B5%B7%E5%A7%8B%E9%A1%B5/' title='Firefox 扩展'><i class='fa-brands fa-firefox-browser'></i> Firefox 扩展</a>
+<a class="button  regular" href='https://maorx.lanzout.com/b00vbvwwd' title='CRX 文件'><i class='fa-solid fa-cloud-arrow-up'></i> CRX 文件</a>
+]]></content>
+      <tags>
+        <tag>起始页</tag>
+        <tag>网站</tag>
+        <tag>青桔起始页</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Lx music</title>
+    <url>//zh-cn/Lx-music.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="一-简介"><a href="#一-简介" class="headerlink" title="一.简介"></a>一.简介</h2><p>LX music(落雪音乐)是一个<strong>免费&amp;开源</strong>的音乐查找工具，支持五大音乐平台/融合搜索的搜索、播放、下载功能，并支持所有系统(计划支持IOS)</p>
+<h3 id="1-搜索"><a href="#1-搜索" class="headerlink" title="1.搜索"></a>1.搜索</h3><p>支持企鹅、网易云、酷狗、酷我、咪咕音乐的搜索功能</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230420/lvye.asia.lx-music-desktop_VHpjDKTedJ.webp"
+                      alt="酷我搜索"
+                ></p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230420/lvye.asia.lx-music-desktop_J8fLxwmluf.webp"
+                      alt="聚合搜索"
+                ></p>
+<h3 id="2-音乐播放"><a href="#2-音乐播放" class="headerlink" title="2.音乐播放"></a>2.音乐播放</h3><p>软件支持查看评论、歌词</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230420/lvye.asia.lx-music-desktop_MhPE7y82KB.webp"
+                      alt="歌词"
+                ></p>
+<h3 id="3-音乐下载"><a href="#3-音乐下载" class="headerlink" title="3.音乐下载"></a>3.音乐下载</h3><p>支持五大平台音乐下载(本功能需进入设置-下载设置-是否启用下载功能，把前面打勾，可对歌曲右键即可下载)</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230420/lvye.asia.lx-music-desktop_zo2LiLeUeE.webp"
+                      alt="下载"
+                ></p>
+<p>下载后的歌曲自动转mp3</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230420/lvye.asia.explorer_iobJyszMdQ.webp"
+                      alt="mp3"
+                ></p>
+<h3 id="4-歌单"><a href="#4-歌单" class="headerlink" title="4.歌单"></a>4.歌单</h3><p>支持所有平台的歌单</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230420/lvye.asia.lx-music-desktop_qVyPuvvdxS.webp"
+                      alt="lvye"
+                ></p>
+<p>也支持所有平台导入歌单</p>
+<div class="note-large blue"><div class="notel-title"><p>提示</p>
+</div><div class="notel-content"><p>1.不支持跨源打开歌单，请确认要打开的歌单与当前歌单源是否对应  </p>
+<p>2.酷狗源不支持用歌单D打开，但支持酷狗码打开 </p>
+<p>3.网易源的”我喜欢”歌单需要Token才能打开，详情看<a class="link"   href="https://lxmusic.toside.cn/desktop/faq/cannot-open-songlist" >FAQ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+</div></div>
+
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230420/lvye.asia.lx-music-desktop_sgeiQnD3QQ.webp"
+                      alt="lvye"
+                ></p>
+<h3 id="5-排行榜"><a href="#5-排行榜" class="headerlink" title="5.排行榜"></a>5.排行榜</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.staticaly.com/gh/Cxy-an/img@main/20230420/lvye.asia.lx-music-desktop_0PJQRhINSz.webp"
+                      alt="lvye"
+                ></p>
+<h2 id="二-使用说明"><a href="#二-使用说明" class="headerlink" title="二.使用说明"></a>二.使用说明</h2><h3 id="1-安装失败"><a href="#1-安装失败" class="headerlink" title="1.安装失败"></a>1.安装失败</h3><h4 id="Windows-安装版安装失败"><a href="#Windows-安装版安装失败" class="headerlink" title="Windows 安装版安装失败"></a>Windows 安装版安装失败</h4><h5 id="覆盖安装时安装失败"><a href="#覆盖安装时安装失败" class="headerlink" title="覆盖安装时安装失败"></a>覆盖安装时安装失败</h5><p>出现这个问题的原因一般是你当初在安装本软件的时候是以管理员身份安装的，运行软件的时候没有以管理员身份运行，所以卸载后无法再装上。</p>
+<p>安装本软件时建议选择 <code>为当前用户安装</code>，并安装在当前用户目录或者安装在不需要管理员权限的目录（即其他分区下），不要选<code>为所有用户安装</code>。</p>
+<h5 id="提示安装程序并未成功地运行完成或安装过程中出现错误"><a href="#提示安装程序并未成功地运行完成或安装过程中出现错误" class="headerlink" title="提示安装程序并未成功地运行完成或安装过程中出现错误"></a>提示安装程序并未成功地运行完成或安装过程中出现错误</h5><p>对于部分电脑出现安装失败的问题，可以做出以下尝试：</p>
+<ul>
+<li>若你之前可以安装成功，但现在安装失败，就去<strong>控制面板-程序和功能</strong>或用第三方卸载工具看下有没有之前的版本残留，若同时在不同路径下安装了多个版本就可能会出现该问题，这种情况卸载掉所有版本重新安装即可</li>
+<li>清理安装路径下的残留文件</li>
+<li>清理注册表（建议用清理工具清理）</li>
+</ul>
+<h5 id="安装结束后，无法启动软件"><a href="#安装结束后，无法启动软件" class="headerlink" title="安装结束后，无法启动软件"></a>安装结束后，无法启动软件</h5><p>安装结束后，安装目录只有卸载程序没有其他内容</p>
+<ul>
+<li>可能是你使用错了安装包，例如使用Windows arm64版安装包在x64系统安装就会出现这个问题</li>
+<li>覆盖安装时更改了安装目录，覆盖安装时不能更改安装目录，若想更改目录需将软件卸载再安装</li>
+</ul>
+<p>解决方式：使用控制面板-卸载功能卸载应用，然后选对安装包安装一般即可解决。</p>
+<h5 id="提示缺少xxx-dll"><a href="#提示缺少xxx-dll" class="headerlink" title="提示缺少xxx.dll"></a>提示缺少<code>xxx.dll</code></h5><p>如果你使用的是免安装版（压缩包版），则需要将所有文件解压出来才能运行，否则将提示缺失<code>ffmpeg.dll</code>之类的问题。</p>
+<p>如果你使用的是安装版出现这个提示，则可能是你电脑缺少某些dll导致的，正常的系统是没有这个问题的，可以尝试如下几个解决办法：</p>
+<ul>
+<li>尝试重新安装软件</li>
+<li>以管理员权限打开<code>cmd</code>，输入<code>sfc /scannow</code>回车等待检查完成重启电脑</li>
+<li>若上面的方法<strong>修复、重启</strong>电脑后仍然不行，就自行百度弹出的<strong>错误信息</strong>看下别人是怎么解决的</li>
+</ul>
+<h4 id="MAC-OS无法启动软件，提示-lx-music-desktop-已损坏、无法打开“lx-music-desktop”，无法验证开发者"><a href="#MAC-OS无法启动软件，提示-lx-music-desktop-已损坏、无法打开“lx-music-desktop”，无法验证开发者" class="headerlink" title="MAC OS无法启动软件，提示 lx-music-desktop 已损坏、无法打开“lx-music-desktop”，无法验证开发者"></a>MAC OS无法启动软件，提示 lx-music-desktop 已损坏、无法打开“lx-music-desktop”，无法验证开发者</h4><p>这是因为软件没有签名，被系统阻止运行</p>
+<p>在终端里输入 <code>sudo xattr -rd com.apple.quarantine /Applications/lx-music-desktop.app</code>，然后输入你的电脑密码即可</p>
+<p>还可以参考：</p>
+<ul>
+<li><a class="link"   href="http://www.pc6.com/edu/168719.html" >http://www.pc6.com/edu/168719.html <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://blog.csdn.net/for641/article/details/104811538" >https://blog.csdn.net/for641/article/details/104811538 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+</ul>
+<h3 id="2-更改音乐来源"><a href="#2-更改音乐来源" class="headerlink" title="2.更改音乐来源"></a>2.更改音乐来源</h3><p>依次打开设置-基本设置-音乐来源-测试接口(可能下载功能需要使用临时接口)</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.jsdelivr.net/gh/Cxy-an/img@main/20230420/lvye.asia.QKg9xh2GE8.webp"
+                      alt="lvye"
+                ></p>
+<h3 id="帮助文档"><a href="#帮助文档" class="headerlink" title="帮助文档"></a>帮助文档</h3><p>桌面端:<a class="link"   href="https://lxmusic.toside.cn/desktop" >https://lxmusic.toside.cn/desktop <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>移动版:<a class="link"   href="https://lxmusic.toside.cn/mobile" >https://lxmusic.toside.cn/mobile <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h2 id="三-下载"><a href="#三-下载" class="headerlink" title="三.下载"></a>三.下载</h2><a class="button  regular" href='https://github.com/lyswhut/lx-music-desktop/releases' title='电脑版'><i class='fa-brands fa-github'></i> 电脑版</a>
+
+<a class="button  regular" href='https://github.com/lyswhut/lx-music-mobile/releases' title='手机版'><i class='fa-brands fa-github'></i> 手机版</a>
+
+<p>推荐国内用户使用此方式下载，软件发布更新时，此网盘的安装包会同步更新到最新版本。</p>
+<a class="button  regular" href='https://www.lanzoui.com/b0bf2cfa/' title='云盘下载'><i class='fa-solid fa-download'></i> 云盘下载</a>
+
+<p>密码：<code>glqw</code></p>
+<div class="note-large blue"><div class="notel-title"><p>提示</p>
+</div><div class="notel-content"><p>若链接无法打开请百度：蓝奏云链接打不开</p>
+</div></div>
+
+]]></content>
+      <tags>
+        <tag>音乐</tag>
+        <tag>Lx music</tag>
+        <tag>软件</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>hai</title>
+    <url>/undefined/hai/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="如果你只能看到此文章请联系作者"><a href="#如果你只能看到此文章请联系作者" class="headerlink" title="如果你只能看到此文章请联系作者"></a>如果你只能看到此文章请联系作者</h1><p> 本文章用于本地测试主题的</p>
+]]></content>
+      <tags>
+        <tag>说明</tag>
+      </tags>
+  </entry>
 </search>
